@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on google company
 - 💬 Ask me about programming
-- 📫 How to reach me: my gmail: amin.200.bidad@gmail.com
+- 📫 How to reach me: my gmail is amin.200.bidad@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
