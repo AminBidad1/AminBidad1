@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: my gmail is amin.200.bidad@gmail.com
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminBidad1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminBidad1&layout=compact&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
