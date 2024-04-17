@@ -9,7 +9,9 @@
 </p>
 
 ## **TOP LANGUAGES**
+<p align = 'center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminBidad1&theme=radical&hide_border=true"/>
+</p>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
